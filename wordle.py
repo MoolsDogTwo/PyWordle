@@ -1,3 +1,5 @@
+### Author: MoolsDogTwo, do not steel.
+
 import pygame
 import random
 
